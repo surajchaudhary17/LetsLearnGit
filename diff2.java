@@ -1,8 +1,8 @@
 package LetsLearnGit;
 
-public class sum {
+public class diff2 {
     public static void main(String[] args) {
-        System.out.println("Now the Sum is "+3+4);
+        System.out.println("Sorry bro!!  :( ");
     }
     
 }
